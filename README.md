@@ -1,4 +1,4 @@
-# Human-Computer Interaction & Computer Graphics Lab
+# Human Computer Interaction & Computer Graphics Lab
 
 _Practical labs (Inlab & PostLab) exercises covering Human-Computer Interaction (HCI) and Computer Graphics, focusing on user-centered design, usability, graphics programming, visualization, and algorithm implementation._
 
