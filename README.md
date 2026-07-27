@@ -46,7 +46,7 @@ This repository contains my laboratory work for **Human-Computer Interaction (HC
 
 ## Learning Outcomes
 
-- Designed intuitive and user-friendly interfaces
+- Designed intuitive and user friendly interfaces
 - Applied usability and accessibility principles
 - Implemented fundamental graphics algorithms
 - Developed interactive graphics applications
