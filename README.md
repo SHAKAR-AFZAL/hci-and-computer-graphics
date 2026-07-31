@@ -65,4 +65,4 @@ This repository serves as a collection of my HCI and Computer Graphics laborator
 
 **Mian Shakar Afzal**
 
-[LinkedIn](https://www.linkedin.com/in/mian-shakar-afzal-959b443a8/) | [GitHub](https://github.com/SHAKAR-AFZAL)
+[LinkedIn](https://www.linkedin.com/in/mian-shakar-afzal-959b443a8/) | [GitHub](https://github.com/SHAKAR-AFZAL) | [Email](mailto:mianshakarafzal@gmail.com)
