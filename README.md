@@ -50,7 +50,7 @@ This repository contains my laboratory work for **Human-Computer Interaction (HC
 - Applied usability and accessibility principles
 - Implemented fundamental graphics algorithms
 - Developed interactive graphics applications
-- Strengthened problem-solving and visualization skills
+- Strengthened problem solving and visualization skills
 - Bridged theoretical concepts with practical implementation
 
 ---
