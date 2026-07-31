@@ -23,7 +23,7 @@ This repository contains my laboratory work for **Human-Computer Interaction (HC
 
 ### Computer Graphics
 - Graphics Fundamentals
-- Line & Circle Drawing Algorithms
+- Line and Circle Drawing Algorithms
 - 2D & 3D Transformations
 - Clipping Algorithms
 - Viewing & Projection
