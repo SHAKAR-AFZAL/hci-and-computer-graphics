@@ -13,7 +13,7 @@ This repository contains my laboratory work for **Human-Computer Interaction (HC
 ## Topics Covered
 
 ### Human-Computer Interaction (HCI)
-- User-Centered Design (UCD)
+- User Centered Design (UCD)
 - User Interface (UI) Design
 - User Experience (UX)
 - Usability Principles
