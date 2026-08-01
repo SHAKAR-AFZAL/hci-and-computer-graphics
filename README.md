@@ -6,7 +6,7 @@ _Practical labs (Inlab & PostLab) exercises covering Human Computer Interaction 
 
 ## Overview
 
-This repository contains my laboratory work for **Human-Computer Interaction (HCI)** and **Computer Graphics** completed during the BS Computer Science program. It showcases practical implementations of UI/UX principles, usability evaluation, graphics algorithms, and interactive application development through hands-on assignments.
+This repository contains my laboratory work for **Human Computer Interaction (HCI)** and **Computer Graphics** completed during the BS Computer Science program. It showcases practical implementations of UI/UX principles, usability evaluation, graphics algorithms, and interactive application development through hands-on assignments.
 
 ---
 
