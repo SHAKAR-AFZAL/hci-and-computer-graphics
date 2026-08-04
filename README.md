@@ -57,7 +57,7 @@ This repository contains my laboratory work for **Human Computer Interaction (HC
 
 ## Repository Purpose
 
-This repository serves as a collection of my HCI and Computer Graphics labs work, demonstrating my understanding of user-centered design, interactive systems, graphics programming, and computational problem-solving through practical exercises.
+This repository serves as a collection of my HCI and Computer Graphics labs work, demonstrating my understanding of user centered design, interactive systems, graphics programming, and computational problem-solving through practical exercises.
 
 ---
 
