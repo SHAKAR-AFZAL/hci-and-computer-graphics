@@ -19,7 +19,7 @@ This repository contains my laboratory work for **Human Computer Interaction (HC
 - Usability Principles
 - Heuristic Evaluation
 - Accessibility
-- Wireframing a Prototyping
+- Wireframing an Prototyping
 
 ### Computer Graphics
 - Graphics Fundamentals
